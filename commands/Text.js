@@ -44,12 +44,14 @@ bot.on('message', message => {
     message.channel.send('https://media.discordapp.net/attachments/518654647960076297/967337698970984448/IMG_0616.png?width=672&height=676');
   }if (message.content === 'ไอจ๋าย') {
     message.channel.send('https://media.discordapp.net/attachments/518654647960076297/967337741081788436/IMG_1739.png?width=881&height=676');
-  }if (message.content === 'ไอนิกหลับในห้อง') {
-    message.channel.send('https://media.discordapp.net/attachments/518654647960076297/967341928700051486/IMG_20190110_124433.jpg?width=507&height=676');
+  }if (message.content === 'กระต่ายม่อน') {
+    message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967433200567721984/unknown.png?width=380&height=676');
   }if (message.content === 'ไอจ๋ายขี่ม้า') {
     message.channel.send('https://images-ext-2.discordapp.net/external/ZDJdEGOvez5E658BrbQmJciUDKrgxEgDC3ZkQmpIsrQ/%3Fwidth%3D415%26height%3D676/https/media.discordapp.net/attachments/518654647960076297/967342446839234570/Screenshot_20220423-153305_Video_Player.jpg');
-  }if (message.content === 'ไอนิกเหนียง') {
-    message.channel.send('https://images-ext-1.discordapp.net/external/BgtRFOw3LBNGR-exLg28MB719k5OC9DNSze9k3yWARI/https/media.discordapp.net/attachments/518654647960076297/967343901591625768/Screenshot_2562_0525_233417.png');
+  }if (message.content === 'แมวม่อน') {
+    message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967430212230991912/unknown.png?width=380&height=676');
+  }if (message.content === 'หมาม่อน') {
+    message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967425374231359498/unknown.png?width=380&height=676');
   }
 });
 bot.login('OTY3MDg5OTM1OTgxMDk3MDQx.YmLOsA.xDD_sJPBUxz3PoIzHBVdTcl1phc');
