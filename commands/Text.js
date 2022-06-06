@@ -52,6 +52,8 @@ bot.on('message', message => {
     message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967430212230991912/unknown.png?width=380&height=676');
   }if (message.content === 'หมาม่อน') {
     message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967425374231359498/unknown.png?width=380&height=676');
+  }if (message.content === 'ชิม้าหัก') {
+    message.channel.send('https://media.discordapp.net/attachments/622041735299858452/983378783350435890/unknown.png?width=507&height=676');
   }
 });
 bot.login('OTY3MDg5OTM1OTgxMDk3MDQx.YmLOsA.xDD_sJPBUxz3PoIzHBVdTcl1phc');
