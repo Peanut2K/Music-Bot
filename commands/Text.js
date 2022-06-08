@@ -54,6 +54,11 @@ bot.on('message', message => {
     message.channel.send('https://media.discordapp.net/attachments/742767431759429682/967425374231359498/unknown.png?width=380&height=676');
   }if (message.content === 'ชิม้าหัก') {
     message.channel.send('https://media.discordapp.net/attachments/622041735299858452/983378783350435890/unknown.png?width=507&height=676');
-  }
+  }if (message.content === 'วาซัดกระสอบ') {
+    message.channel.send('https://media.discordapp.net/attachments/956211010996420628/984097730379001936/unknown.png');
+  }if (message.content === 'วาหลับใน') {
+    message.channel.send('https://media.discordapp.net/attachments/956211010996420628/984097841146392636/unknown.png?width=379&height=676g');
+  }if (message.content === 'หมา') {
+    message.channel.send('https://media.discordapp.net/attachments/956211010996420628/984097552867676160/unknown.png?width=677&height=676');
 });
 bot.login('OTY3MDg5OTM1OTgxMDk3MDQx.YmLOsA.xDD_sJPBUxz3PoIzHBVdTcl1phc');
